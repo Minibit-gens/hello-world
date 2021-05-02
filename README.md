@@ -1,5 +1,5 @@
-# hello-world
-This code is for learning github.
+# First-level header
+This code is for learning github. It begins with a first-level header.
 
 ## Second-level header
 This is some text under a second-level header.
